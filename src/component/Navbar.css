@@ -3,17 +3,6 @@
     height: 80px;
     display: flex;
 
-
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-   
-    z-index: 1000; /* Adjust z-index as needed */
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 20px; /* Adjust padding as needed */
 }
 .Best{
     color: white;
@@ -68,12 +57,6 @@ border-radius: 5px;
     display: flex; */
     background-color: rgb(1,49,150);
 
-
-
-    display: flex;
-    justify-content: space-between;
-    /* Replace with your desired background color */
-    padding: 10px 20px; /* Adjust padding as needed */
 }
 #navup>button{
     color: white;
