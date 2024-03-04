@@ -1,0 +1,39 @@
+.continue-shopping{
+    display: flex;
+    margin-top: 30px;
+}
+.continue-shopping>h3{
+  
+    margin-top: 4px;
+}
+#head{
+   
+    display: flex;
+    justify-content: space-between;
+}
+.cart-icon{
+   
+    margin-right: 100px;
+    margin-top: 10px;
+   
+}
+.main-cart-section{
+  
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.main-cart-section>h1{
+    font-size: 35px;
+    font-weight: bolder;
+    
+}
+.cart-item-info{
+    border: 1px solid red;
+    display: flex;
+   
+}
+.cart-item-container{
+    width: 90%;
+    height: 56rem;
+   
+}

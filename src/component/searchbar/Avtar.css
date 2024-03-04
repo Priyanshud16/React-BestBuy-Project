@@ -1,0 +1,38 @@
+#avatar-container{
+  
+    height: 1000px;
+    background-color: rgb(240,244,250);
+}
+#avatar-heading>h1{
+    font-size: 70px;
+    font-weight: bolder;
+    
+  margin-left: 250px;
+}
+#stack-Avatar{
+    
+    width: 7%;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+#wrap-avatar{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* One column */
+    gap: 10px; /* Adjust the gap between avatars */
+    justify-items: center; /* Center items horizontally */
+    margin-left: 250px;
+
+   
+   
+}
+
+
+.Wrap{
+   
+    height: 150px;
+    width: 150px;
+}
+.Wrap>.avatar{
+    height: 150px;
+    width: 150px;
+}

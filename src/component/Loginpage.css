@@ -1,0 +1,64 @@
+#page{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    height: 550px;
+    width: 30%;
+    margin-left: 500px;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+#heading{
+   
+    height: 50px;
+    margin-top: 30px;
+}
+#heading>h1{
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+   
+}
+#page>input{
+    border: 1px solid black;
+    height: 50px;
+    width: 80%;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 25px;
+}
+
+#forgot-heading{
+    color: blue;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#btn{
+    margin-left: 100px;
+    margin-top: 30px;
+    width: 50%;
+}
+#signupGoogle{
+    border: 1px solid black;
+    height: 40px;
+    width: 50%;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+
+#signupGoogle:hover{
+    color: white;
+    background-color: black;
+}
+#signup-para{
+   font-size: 10px;
+   margin-left: 90px;
+   margin-top: 30px;
+}
+#create-account{
+    color: blue;
+}
+#heading-createAccount{
+    
+    text-align: center;
+    margin-top: 20px;
+}

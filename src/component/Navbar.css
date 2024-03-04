@@ -1,0 +1,112 @@
+#nav{
+    background-color: rgb(0,70,190);
+    height: 80px;
+    display: flex;
+
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+   
+    z-index: 1000; /* Adjust z-index as needed */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px; /* Adjust padding as needed */
+}
+.Best{
+    color: white;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-left: 30px;
+}
+#Menu{
+    color: white;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+#input{
+   
+    height: 50px;
+    margin-top: 15px;
+    margin-left: 250px;  
+}
+
+#hamburgerbutton{
+    
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+#input>input{
+height: 50px;
+width: 450px;
+border-radius: 5px;
+}
+#cart{
+   
+    margin-left: 450px;
+    height: 50px;
+    margin-top: 10px;
+    display: flex;
+
+}
+#cartHead{
+    color: white;
+    margin-left: 10px;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-top: 5px;
+}
+
+#navup{
+   
+    /* height: 40px;
+    display: flex; */
+    background-color: rgb(1,49,150);
+
+
+
+    display: flex;
+    justify-content: space-between;
+    /* Replace with your desired background color */
+    padding: 10px 20px; /* Adjust padding as needed */
+}
+#navup>button{
+    color: white;
+    margin-left: 40px;
+    font-size: 10px;
+}
+
+#navup>button:hover{
+    outline: invert;
+}
+
+
+#navdown{
+  
+    height: 40px;
+    background-color: rgb(0,70,190);
+
+
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px; /* Adjust padding as needed */
+    color: #ffffff; /* Adjust text color as needed */
+
+}
+#navdown>button{
+    font-size: 11px;
+    margin-left: 40px;
+    color: white;
+}
+#banner{
+    
+    height: 520px;
+    width: 50%;
+    margin-left: 350px;
+    margin-top: 20px;
+}

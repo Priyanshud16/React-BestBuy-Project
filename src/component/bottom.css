@@ -1,0 +1,73 @@
+#bottomMain{
+   
+    height: 130px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(240,242,244);
+}
+#question{
+    margin-left: 50px;
+}
+
+#question>img{
+   height: 100px;
+}
+#question>p{
+    font-size: 15px;
+    font-size: bolder;
+    color: blue;
+}
+#parcel>img{
+    height: 100px;
+}
+#parcel>p{
+    font-size: 15px;
+    font-size: bolder; 
+    color: blue;
+}
+#parcel{
+    margin-left: 50px;
+}
+#parcelTruck{
+    margin-left: 50px;
+
+}
+#accordian{
+    
+    height: 300px;
+    background-color: rgb(240,242,244);
+
+}
+.ac>h3{
+    color:blue;
+}
+#signAndcreate{
+   
+    height: 30px;
+}
+
+#emailId{
+  
+    height:80px ;
+
+}
+
+#emailId>input{
+    width: 600px;
+    height: 40px;
+    border-color: black;
+}
+
+#bottombtn{
+   
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+#bottombtn>p{
+    font-size: 10px;
+}
+#lastbottom>P{
+    font-size: 13px;
+  padding-left: 25px;
+}
