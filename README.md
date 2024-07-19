@@ -22,7 +22,7 @@ Clone this repository.
 Navigate into the project directory.
 Install dependencies using npm install.
 Start the development server with npm start.
-Open your browser and visit http://localhost:3000 to view the website.
+Open your browser and visit https://react-best-buy-project-uqkw.vercel.app/ to view the website.
 Project Structure
 css
 Copy code
