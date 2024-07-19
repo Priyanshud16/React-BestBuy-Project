@@ -23,28 +23,3 @@ Navigate into the project directory.
 Install dependencies using npm install.
 Start the development server with npm start.
 Open your browser and visit https://react-best-buy-project-uqkw.vercel.app/ to view the website.
-Project Structure
-css
-Copy code
-best-buy-replica/
-│
-├── public/
-│   ├── index.html
-│   └── ...
-│
-├── src/
-│   ├── components/
-│   │   ├── Header.js
-│   │   ├── ProductCatalog.js
-│   │   └── ...
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-│
-├── README.md
-└── ...
-Contributing
-Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or create a pull request.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for detail
